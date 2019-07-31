@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+	id="org.springframework.tooling.concourse.ls.feature"
+	label="Concourse Pipeline Language Server Feature"
+	version="4.2.1.201904170912"
+	provider-name="Pivotal, Inc.">
+
+    <description>
+       %description
+    </description>
+
+    <copyright>
+       %copyright
+    </copyright>
+
+    <license url="%licenseUrl">
+       %license
+    </license>
+
+	<requires>
+		<import plugin="org.eclipse.ui.genericeditor"/>
+		<import plugin="org.eclipse.lsp4e"/>
+	</requires>
+
+	<plugin
+		id="org.springframework.tooling.concourse.ls"
+		download-size="19311"
+		install-size="21959"
+		version="1.6.0.201904170912"
+		unpack="false">
+	</plugin>
+
+</feature>

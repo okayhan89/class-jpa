@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1564533738750" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.14.4.v20181013-2146/" version="3.14.4.v20181013-2146">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.2.500.v20190307-0500/" version="2.2.500.v20190307-0500">
+</feature>
+<feature id="org.eclipse.egit.gitflow.feature" plugin-identifier="org.eclipse.egit.gitflow" url="features/org.eclipse.egit.gitflow.feature_5.3.0.201903130848-r/" version="5.3.0.201903130848-r">
+</feature>
+<feature id="org.eclipse.wst.jsdt.chromium.debug.feature" plugin-identifier="org.eclipse.wst.jsdt.chromium.debug" url="features/org.eclipse.wst.jsdt.chromium.debug.feature_0.6.100.v201902140014/" version="0.6.100.v201902140014">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.ssh.feature" plugin-identifier="org.eclipse.tm.terminal.ssh" url="features/org.eclipse.tm.terminal.connector.ssh.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.m2e.logback.feature" plugin-identifier="org.eclipse.m2e.logback.configuration" url="features/org.eclipse.m2e.logback.feature_1.11.0.20190220-2119/" version="1.11.0.20190220-2119">
+</feature>
+<feature id="org.springsource.ide.eclipse.commons.quicksearch.feature" url="features/org.springsource.ide.eclipse.commons.quicksearch.feature_3.9.9.201904121913-CI-B463/" version="3.9.9.201904121913-CI-B463">
+</feature>
+<feature id="org.eclipse.wst.xml_ui.feature" plugin-identifier="org.eclipse.wst.xml.ui" url="features/org.eclipse.wst.xml_ui.feature_3.13.0.v201903050402/" version="3.13.0.v201903050402">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.6.100.v20190218-2100/" version="1.6.100.v20190218-2100">
+</feature>
+<feature id="org.eclipse.buildship" plugin-identifier="org.eclipse.buildship.branding" url="features/org.eclipse.buildship_3.0.1.v20181217-1554/" version="3.0.1.v20181217-1554">
+</feature>
+<feature id="org.eclipse.wst.xml_core.feature" url="features/org.eclipse.wst.xml_core.feature_3.13.0.v201901310548/" version="3.13.0.v201901310548">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_5.3.0.201903130848-r/" version="5.3.0.201903130848-r">
+</feature>
+<feature id="org.eclipse.wst.web_ui.feature" plugin-identifier="org.eclipse.wst.web.ui" url="features/org.eclipse.wst.web_ui.feature_3.13.0.v201903050402/" version="3.13.0.v201903050402">
+</feature>
+<feature id="org.springframework.ide.eclipse.boot.dash.feature" plugin-identifier="org.springframework.ide.eclipse" url="features/org.springframework.ide.eclipse.boot.dash.feature_3.9.9.201904162228-CI-B2221/" version="3.9.9.201904162228-CI-B2221">
+</feature>
+<feature id="org.eclipse.wst.common_core.feature" url="features/org.eclipse.wst.common_core.feature_3.10.0.v201811122225/" version="3.10.0.v201811122225">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.local.feature" url="features/org.eclipse.tm.terminal.connector.local.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.100.v20180301-0201/" version="1.1.100.v20180301-0201">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.telnet.feature" url="features/org.eclipse.tm.terminal.connector.telnet.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.100.v20180301-0132/" version="1.1.100.v20180301-0132">
+</feature>
+<feature id="org.eclipse.userstorage" url="features/org.eclipse.userstorage_1.2.0.v20190308-0433/" version="1.2.0.v20190308-0433">
+</feature>
+<feature id="org.springframework.boot.ide.main.feature" url="features/org.springframework.boot.ide.main.feature_4.2.1.201904170946-RELEASE/" version="4.2.1.201904170946-RELEASE">
+</feature>
+<feature id="org.eclipse.tm.terminal.view.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.view.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.wst.json_ui.feature" plugin-identifier="org.eclipse.wst.json.ui" url="features/org.eclipse.wst.json_ui.feature_1.1.4.v201901152013/" version="1.1.4.v201901152013">
+</feature>
+<feature id="org.sonatype.m2e.buildhelper.feature" plugin-identifier="org.sonatype.m2e.buildhelper" url="features/org.sonatype.m2e.buildhelper.feature_0.15.0.201207090124/" version="0.15.0.201207090124">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.feature" url="features/org.eclipse.jst.server_adapters.feature_3.2.500.v201901310132/" version="3.2.500.v201901310132">
+</feature>
+<feature id="org.eclipse.m2e.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.feature_1.11.0.20190220-2119/" version="1.11.0.20190220-2119">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.11.0.v20190307-0500/" version="4.11.0.v20190307-0500">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.200.v20190129-1112/" version="1.2.200.v20190129-1112">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.300.v20190220-1158/" version="1.4.300.v20190220-1158">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.14.4.v20181013-2146/" version="3.14.4.v20181013-2146">
+</feature>
+<feature id="org.springframework.tooling.concourse.ls.feature" url="features/org.springframework.tooling.concourse.ls.feature_4.2.1.201904170912/" version="4.2.1.201904170912">
+</feature>
+<feature id="org.eclipse.jgit.lfs" url="features/org.eclipse.jgit.lfs_5.3.0.201903130848-r/" version="5.3.0.201903130848-r">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.7.5.v20190313-2005/" version="1.7.5.v20190313-2005">
+</feature>
+<feature id="org.eclipse.wst.server_core.feature" url="features/org.eclipse.wst.server_core.feature_3.3.700.v201901310132/" version="3.3.700.v201901310132">
+</feature>
+<feature id="org.eclipse.wst.xml_userdoc.feature" url="features/org.eclipse.wst.xml_userdoc.feature_3.11.0.v201901100226/" version="3.11.0.v201901100226">
+</feature>
+<feature id="net.mihai-nita.ansicon" url="features/net.mihai-nita.ansicon_1.3.5.201612301822/" version="1.3.5.201612301822">
+</feature>
+<feature id="org.eclipse.wst.web_core.feature" url="features/org.eclipse.wst.web_core.feature_3.13.0.v201902281912/" version="3.13.0.v201902281912">
+</feature>
+<feature id="org.springframework.tooling.boot.ls.feature" url="features/org.springframework.tooling.boot.ls.feature_4.2.1.201904170912/" version="4.2.1.201904170912">
+</feature>
+<feature id="org.eclipse.wst.common_ui.feature" url="features/org.eclipse.wst.common_ui.feature_3.10.0.v201811170421/" version="3.10.0.v201811170421">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.13.400.v20190307-0943/" version="3.13.400.v20190307-0943">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.100.v20180301-0132/" version="1.1.100.v20180301-0132">
+</feature>
+<feature id="org.eclipse.wst.jsdt.nodejs.feature" plugin-identifier="org.eclipse.wst.jsdt.nodejs" url="features/org.eclipse.wst.jsdt.nodejs.feature_1.1.0.v201902140014/" version="1.1.0.v201902140014">
+</feature>
+<feature id="org.eclipse.jgit.ssh.apache" url="features/org.eclipse.jgit.ssh.apache_5.3.0.201903130848-r/" version="5.3.0.201903130848-r">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.17.0.v20190307-0500/" version="3.17.0.v20190307-0500">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.15.0.v20181220-0846/" version="2.15.0.v20181220-0846">
+</feature>
+<feature id="org.springframework.tooling.cloudfoundry.manifest.ls.feature" url="features/org.springframework.tooling.cloudfoundry.manifest.ls.feature_4.2.1.201904170912/" version="4.2.1.201904170912">
+</feature>
+<feature id="org.jboss.tools.m2e.wro4j.feature" plugin-identifier="org.jboss.tools.m2e.wro4j.core" url="features/org.jboss.tools.m2e.wro4j.feature_1.1.0.201406251020/" version="1.1.0.201406251020">
+</feature>
+<feature id="org.eclipse.wst.web_userdoc.feature" url="features/org.eclipse.wst.web_userdoc.feature_3.13.0.v201901100226/" version="3.13.0.v201901100226">
+</feature>
+<feature id="org.eclipse.wst.server_userdoc.feature" url="features/org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132/" version="3.3.300.v201901310132">
+</feature>
+<feature id="org.sonatype.m2e.egit.feature" plugin-identifier="org.sonatype.m2e.egit" url="features/org.sonatype.m2e.egit.feature_0.15.1.201806191431/" version="0.15.1.201806191431">
+</feature>
+<feature id="org.eclipse.tm.terminal.control.feature" plugin-identifier="org.eclipse.tm.terminal.control" url="features/org.eclipse.tm.terminal.control.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.4.300.v20190220-1158/" version="2.4.300.v20190220-1158">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.17.0.v20190116-0940/" version="2.17.0.v20190116-0940">
+</feature>
+<feature id="org.springframework.boot.ide.branding.feature" url="features/org.springframework.boot.ide.branding.feature_4.2.1.201904170946-RELEASE/" version="4.2.1.201904170946-RELEASE">
+</feature>
+<feature id="org.springframework.tooling.bosh.ls.feature" url="features/org.springframework.tooling.bosh.ls.feature_4.2.1.201904170912/" version="4.2.1.201904170912">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.4.300.v20190218-2100/" version="1.4.300.v20190218-2100">
+</feature>
+<feature id="com.ianbrandt.tools.m2e.mdp.feature" plugin-identifier="com.ianbrandt.tools.m2e.mdp.core" url="features/com.ianbrandt.tools.m2e.mdp.feature_0.0.4.201409291703/" version="0.0.4.201409291703">
+</feature>
+<feature id="org.eclipse.tm.terminal.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.feature_4.5.100.201903081602/" version="4.5.100.201903081602">
+</feature>
+<feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.5.3.v20181012-2020/" version="1.5.3.v20181012-2020">
+</feature>
+<feature id="org.springframework.tooling.cloudfoundry.manifest.ls.integration.feature" url="features/org.springframework.tooling.cloudfoundry.manifest.ls.integration.feature_4.2.1.201904170912/" version="4.2.1.201904170912">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_5.3.0.201903130848-r/" version="5.3.0.201903130848-r">
+</feature>
+<feature id="org.sonatype.m2e.mavenarchiver.feature" plugin-identifier="org.sonatype.m2e.mavenarchiver" url="features/org.sonatype.m2e.mavenarchiver.feature_0.17.2.201606141937-signed-20160830073346/" version="0.17.2.201606141937-signed-20160830073346">
+</feature>
+<feature id="org.jboss.tools.maven.apt.feature" plugin-identifier="org.jboss.tools.maven.apt.core" url="features/org.jboss.tools.maven.apt.feature_1.5.2.201812241535/" version="1.5.2.201812241535">
+</feature>
+<feature id="org.eclipse.wst.server_ui.feature" url="features/org.eclipse.wst.server_ui.feature_3.3.700.v201902142141/" version="3.3.700.v201902142141">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.11.0.v20190307-0500/" version="4.11.0.v20190307-0500">
+</feature>
+<feature id="m2e.chromatic.feature" url="features/m2e.chromatic.feature_1.0.1.20190223-1703/" version="1.0.1.20190223-1703">
+</feature>
+<feature id="org.eclipse.wst.json_core.feature" url="features/org.eclipse.wst.json_core.feature_1.1.4.v201901152013/" version="1.1.4.v201901152013">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.ext.feature" url="features/org.eclipse.jst.server_adapters.ext.feature_3.3.602.v201901310132/" version="3.3.602.v201901310132">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.6.400.v20190305-0602/" version="1.6.400.v20190305-0602">
+</feature>
+<feature id="org.eclipse.wst.jsdt.feature" plugin-identifier="org.eclipse.wst.jsdt.ui" url="features/org.eclipse.wst.jsdt.feature_2.1.1.v201902140014/" version="2.1.1.v201902140014">
+</feature>
+</site>
+</config>
